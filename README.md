@@ -8,3 +8,4 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listening music and play games
 - 🌐 My YouTube Channel https://www.youtube.com/
+- 💬 My Instagram https://www.instagram.com/1_murod_1/
