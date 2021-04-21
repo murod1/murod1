@@ -1,4 +1,4 @@
-### Hi there, I'm Murad [Web Designer][Database(Mysql)] 👋
+### Hi there, I'm Murad 👋
 
 ## I'm a Student, Webdesigner and Database!!
 
