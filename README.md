@@ -29,9 +29,20 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-
+<br />
 <br />
 
-
 ---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Edit Images in VS Code!?! | Luna Paint Extension](https://www.youtube.com/watch?v=I_6bZQZheC0)
+- [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
+- [Top VS Code Updates | v1.55 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
+- [I QUIT My Job as an Engineer...](https://www.youtube.com/watch?v=wskcgc2AeV8)
+- [Don't Mess Up This Technical Interview Question | Use JavaScript Map() & Set() Objects](https://www.youtube.com/watch?v=oMvzICS-9l4)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
 
