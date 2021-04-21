@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listening music and play games
-- 🌐 My YouTube Channel https://www.youtube.com/
+- 🌐 My YouTube Channel https://www.youtube.com/channel/UCA0fHcc5fgGaxJ4URnb8INg
 - 💬 My Instagram https://www.instagram.com/1_murod_1/
