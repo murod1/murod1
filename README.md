@@ -1,6 +1,6 @@
 ### Hi there, I'm Murad 👋
 
-## I'm a Student, Webdesigner and Database!!
+## I'm a Student, Webdesigner, Python(Django) and Database!!
 
 - 🔭 I'm studying Web Development, Data Science
 - 🌱 I’m currently learning everything 🤣
