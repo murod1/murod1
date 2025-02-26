@@ -1,6 +1,5 @@
 ### Hi there, I'm Murad 👋
 
-## I'm a Student, Webdesigner, Python(Django) and Database!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
