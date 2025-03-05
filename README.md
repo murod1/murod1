@@ -61,18 +61,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default" alt="Now Playing on Spotify" />
-</p>
-
----
 
 ⭐️ _If you like my profile, consider giving my repositories a star!_ ⭐️
