@@ -23,19 +23,21 @@
 
 ## 🛠 My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,figma,vscode,tailwind,webpack,docker,bootstrap" alt="Tech Stack" />
-</p>
+**Frontend:**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
----
+**Backend:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 🎨 UI/UX & Design Passion
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UI%2FUX-Creativity-orange?style=for-the-badge&logo=adobe" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-Flexible-red?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Animation-Framer_Motion-blue?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+**Tools:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
