@@ -2,46 +2,55 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=35&fontAlignY=40&desc=Frontend%20%26%20Backend%20Developer&descAlignY=65)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Passionate+about+Coding;Always+Learning+New+Things" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 💻 Full Stack Web Developer
-- 🔥 Passionate about building modern web applications
-- 📖 Constantly learning new technologies
+- 🎨 Passionate about UI/UX & design aesthetics
+- 🔥 Love creating interactive web experiences
+- 📖 Always exploring new technologies
 - 🎯 Tech stack: `HTML` | `CSS` | `JavaScript` | `React` | `Node.js`
 
 ---
 
 ## 🛠 My Tech Stack
 
-**Frontend:**
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,figma,vscode" />
+</p>
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+---
 
-**Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 🎨 UI/UX & Design Passion
+
+- 💡 Inspired by modern web trends
+- 🖌 Love experimenting with colors & layouts
+- 🎨 Using **Figma**, **Adobe XD**, and **Tailwind CSS**
+- 🚀 Bringing creative ideas to life
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 📬 Contact Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<p align="center">
+  <a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
