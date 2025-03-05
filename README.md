@@ -30,7 +30,7 @@
 ## 🛠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,figma,vscode,tailwind,webpack,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,figma,vscode,tailwind,webpack,docker,bootstrap" alt="Tech Stack" />
 </p>
 
 ---
@@ -47,6 +47,14 @@
 - 🖌 Love experimenting with colors & layouts
 - 🎨 Using **Figma**, **Adobe XD**, **Tailwind CSS**, and **Framer Motion**
 - 🚀 Bringing creative ideas to life
+
+---
+
+## 🎬 Cool Visual Effects
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="Coding GIF" />
+</p>
 
 ---
 
@@ -70,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -79,6 +87,22 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 📊 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🎵 Now Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default" alt="Now Playing on Spotify" />
 </p>
 
 ---
