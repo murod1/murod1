@@ -1,8 +1,9 @@
 ### 👋 Hello! Welcome to my GitHub!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=35&fontAlignY=40&desc=Frontend%20%26%20Backend%20Developer&descAlignY=65" alt="Welcome Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=35&fontAlignY=40&desc=Frontend%20and%20Backend%20Developer&descAlignY=65" alt="Welcome Header" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Passionate+about+Coding;Always+Learning+New+Things;UI/UX+Lover;Open+to+Collaboration" alt="Typing Animation" />
